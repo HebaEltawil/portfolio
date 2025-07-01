@@ -324,3 +324,7 @@ footer {
 .social-link.linkedin:hover {
     color: #A7C1A8;
 }
+
+.scroll-section {
+  scroll-margin-top: 60px; 
+}
